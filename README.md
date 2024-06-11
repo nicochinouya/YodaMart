@@ -11,7 +11,6 @@ The back end for an e-commerce site that uses Express.js API and Sequelize to in
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Technologies Used](#Technologies-Used)
-- [Questions](#Questions)
 - [License](#License)
 
 ### Deployment URL
